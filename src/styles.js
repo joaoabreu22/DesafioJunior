@@ -229,6 +229,8 @@ export const ContainerItens = styled.div`
   }
 
   input {
+    font-family: muli;
+    font-size: 18px;
     top: 191px;
     left: 833px;
     margin-left: 10px;
@@ -243,6 +245,7 @@ export const ContainerItens = styled.div`
 `
 export const Button2 = styled.button`
   margin-left: 350px;
+  margin-top: 10px;
   margin-bottom: 50px;
   top: 338px;
   left: 1174px;

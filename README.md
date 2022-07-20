@@ -1,11 +1,12 @@
 # Desafio Júnior Ímpar.
 
 Esse projeto foi criado utilizando Create-React-App
-Foi utilizadado Axios para buscar Api Pokemon
-e Styled Components para estilizar o projeto.
 
 
 ![8ec15b21-52ec-4091-8d60-187b53baf098](https://user-images.githubusercontent.com/95886754/180081194-3201d391-c0e9-4c63-9931-41945d511100.gif)
+
+Foi utilizadado Axios para buscar Api Pokemon
+e Styled Components para estilizar o projeto.
 
 ## Scripts Disponíveis
 

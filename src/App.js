@@ -79,7 +79,7 @@ function App() {
 
         <SearchContainer>
           <input
-            placeholder="Digite aqui sua busca..."
+            placeholder=" Digite aqui sua busca..."
             onChange={e => setTextSearch(e.target.value)}
             value={textSearch}
           />

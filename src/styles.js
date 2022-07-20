@@ -26,6 +26,7 @@ export const Topo = styled.header`
 
 export const SearchContainer = styled.div`
   input {
+    font-size: 24px;
     position: absolute;
     top: 147px;
     left: 168px;

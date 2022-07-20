@@ -129,7 +129,6 @@ export const ButtonContainer = styled.div`
   align-items: center;
   padding: 10px;
   margin-top: 100px;
-
   width: 100%;
   background: var(---cor-branco) 0% 0% no-repeat padding-box;
   background: #ffffff 0% 0% no-repeat padding-box;
@@ -153,8 +152,14 @@ export const ButtonContainer = styled.div`
     font: normal normal normal 15px/19px Muli;
     letter-spacing: 0px;
     color: #263238;
-    opacity: 0.52;
+    opacity: 0.52;    
   }
+
+  button:hover {
+    color: #E76316;
+  }
+
+ 
 `
 
 export const ContainerModal = styled.div`

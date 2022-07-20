@@ -152,14 +152,12 @@ export const ButtonContainer = styled.div`
     font: normal normal normal 15px/19px Muli;
     letter-spacing: 0px;
     color: #263238;
-    opacity: 0.52;    
+    opacity: 0.52;
   }
 
   button:hover {
-    color: #E76316;
+    color: #e76316;
   }
-
- 
 `
 
 export const ContainerModal = styled.div`
